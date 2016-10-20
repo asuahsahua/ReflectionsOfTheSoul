@@ -1,0 +1,14 @@
+## Interface: 70300
+## Title: Reflections of the Soul
+## Notes: That one thing I promised to write one time
+## Author: Domia on Maiev-US (Curse profile: Asuah)
+## Version: 0.1.0
+## SavedVariables: ReflectionsOfTheSoulDB
+
+#@no-lib-strip@
+includes.xml
+#@end-no-lib-strip@
+
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Reflections.lua
